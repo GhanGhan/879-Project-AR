@@ -1,0 +1,6 @@
+the KNN, MLP and RFL scripts that are the machine learning filesthat operate on the featueres in featuers_39_W64N
+To start process 'from the begining':
+  Run Load_andWindown
+  Run PreProcess
+  Run any of the machine lerning files
+  
