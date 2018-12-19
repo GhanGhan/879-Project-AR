@@ -1,0 +1,7 @@
+M = csvread('subject1.csv', 0, 1);
+
+x = M(:,1)
+y = M(:,2)
+z = M(:,3)
+l = M(:,4)
+
